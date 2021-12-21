@@ -1,4 +1,4 @@
-## X-URL-Uploader (Bot)
+## @GalaxyTubeBot
 ---
 
 Telegram RoBot to Upload Links.
@@ -19,15 +19,10 @@ heroku/python
 ### Deploy to Heroku:
 Just Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/URL-Uploader-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zmraj/urluploader)
 
 
 ## Credits, and Thanks to
-
-* [@TGExplore](https://t.me/ViruZs) for his [TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader)
-* [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-
+ 
 #### LICENSE
 - GPLv3
