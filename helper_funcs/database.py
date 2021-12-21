@@ -1,4 +1,4 @@
-# (c) @PredatorHackerzZ
+# (c) @GalaxyTubeBot
 
 from sample_config import Config
 from helper_funcs.databasecq import Database
