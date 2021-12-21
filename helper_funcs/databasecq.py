@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | @PredatorHackerzZ
+# (c) @GalaxyTubeBot | @GalaxyTubeBot
 
 import datetime
 import motor.motor_asyncio
